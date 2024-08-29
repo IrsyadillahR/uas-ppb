@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "745369902486",
+    "firebase_url": "https://uas-ppb-f3c13-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uas-ppb-f3c13",
+    "storage_bucket": "uas-ppb-f3c13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745369902486:android:e05d1abc3f5b33f91151b7",
+        "android_client_info": {
+          "package_name": "com.example.uas_ppb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDawf9uL2yEqcwYtPnaW1gZld90DkLRgpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
